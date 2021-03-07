@@ -1,1 +1,3 @@
-# codekata
+# CodeKata
+
+http://codekata.com
