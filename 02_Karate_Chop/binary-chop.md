@@ -1,6 +1,6 @@
 # Karate Chop
 
-This is a rather mathematical challenge, and trained to think how algorithms work. I have created one way to work out the binary search.
+This is a rather mathematical challenge, and trained to think how algorithms work. I have created one way to work out the binary search. 
 
 ## Errors
 
@@ -11,3 +11,4 @@ This is a rather mathematical challenge, and trained to think how algorithms wor
 ## How to come up with more than one approach?
 
 I don't know how to write this in JavaScript in another way, without resorting to libraries. I need to think about this. Could there be more than one way to create it?
+
